@@ -1,6 +1,9 @@
 HII this is avinash and the main purpose of the this file is to see how git work 
 
+
 this is the query of sql 
 select column name 
 from table name
 where condition and or not
+
+sql there so many command so that it can be helpful for to create a diff in repo
